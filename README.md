@@ -1,4 +1,4 @@
-# NewsHub Advanced News Intelligence:
+# NewsHub Advanced News Intelligence: Optimizing 6 GB Models to 2.5 GB with TensorFlow Lite
 ![News_Application_Architecture_-1](https://github.com/DriveMyScream/News_Application/assets/93398864/b13f2e2d-a060-47fa-ab78-2aceff5d53e9)
 This project covers a diverse set of natural language processing tasks. It includes fake news detection, sentiment analysis, and effective news categorization and subcategorization. It also includes entity recognition and news similarity analysis, demonstrating its versatility in NLP. Additionally, it offers features such as translation, summarization, grammar correction, search functionality, and personalized news recommendations.
 
